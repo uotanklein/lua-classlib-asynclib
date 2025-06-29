@@ -1,0 +1,1 @@
+Lua libraries for OOP and async programming. ClassLib provides classes, inheritance, serialization. AsyncLib offers Promise, async/await, retry mechanisms.
